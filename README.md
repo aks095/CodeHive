@@ -19,7 +19,7 @@ Please make sure to have the latest version of Google Chrome browser and Chrome 
 Clone the project
 
 ```bash
-  git clone https://github.com/rushisurya2705/TF-IDF-SEARCH-ENGINE.git
+  git clone https://github.com/aks095/CodeHive.git
 ```
 
 Go to the project directory

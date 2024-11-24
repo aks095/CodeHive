@@ -1,7 +1,7 @@
 
 # TF-IDF Search Engine
 
-Welcome to the SearchHive : Search Engine repository! This project provides a web application that allows users to search for coding questions from LeetCode (LC) and Codeforces (CF).
+Welcome to the CodeHive : Search Engine repository! This project provides a web application that allows users to search for coding questions from LeetCode (LC) and Codeforces (CF).
 
 [Click Here to visit CodeHive](https://codehive-qh2t.onrender.com)
 ## Prerequisite
